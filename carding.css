@@ -1,0 +1,27 @@
+.border {
+    border: 2px solid #000;
+    width: 31%;
+    margin: 10px 0;
+}
+
+.image {
+    background-image: url("https://t3.ftcdn.net/jpg/03/04/85/26/360_F_304852693_nSOn9KvUgafgvZ6wM0CNaULYUa7xXBkA.jpg ");
+    background-size: cover;
+    height: 80vh;
+    width: 30vw;
+    text-align: center;
+}
+
+.class {
+    text-align: center;
+    background-color: white;
+}
+
+.but {
+    background-color: blue;
+    height: 35px;
+    width: 120px;
+    border-radius: 60px;
+    border-width: 0px;
+    text-align: center;
+}

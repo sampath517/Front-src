@@ -1,0 +1,43 @@
+.container {
+    text-align: center;
+    font-family: Caveat;
+    background-color: white;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    padding: 20px;
+}
+
+.heading {
+    color: rgb(233, 48, 48);
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+
+.paragraph {
+    color: green;
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 40px;
+    text-align: center;
+}
+
+.button {
+    color: white;
+    font-weight: bold;
+    height: 40px;
+    width: 140px;
+    background-color: rgb(30, 7, 160);
+    border-radius: 25px;
+    border-width: 0px;
+    text-align: center;
+}
+
+.card {
+    background-color: white;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2BjFcg6Sp0FkUslmmrCuWQQPFlTn0e23efg&s");
+    text-align: center;
+    height: 100vh;
+    width: 50vw;
+    background-size: cover;
+}
